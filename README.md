@@ -277,16 +277,5 @@ Make sure credentials match the mode you intend to use.
 
 This project is a prototype and should be improved before production use.
 
-Recommended improvements:
-
-- Use **environment variables** for secrets
-- Hash passwords instead of storing plain text
-- Add **file upload validation**
-- Implement **PayPal webhooks** instead of manual confirmation
-- Add authentication protections for the Flask dashboard
-
 ---
 
-## License
-
-No license is currently included. Add one if you plan to distribute or modify this project.
