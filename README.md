@@ -1,4 +1,4 @@
-# max-tan
+# Autoseller
 
 A Discord autoseller bot and Flask web dashboard for selling digital products automatically using **PayPal invoices**.  
 The system allows Discord servers to list products, generate PayPal invoices for buyers, and automatically deliver files after payment confirmation.
